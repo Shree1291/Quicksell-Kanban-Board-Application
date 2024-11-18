@@ -37,7 +37,7 @@ Experience the application [here](DeployLink)
 
 ## Repository
 
-Find the source code on [GitHub](GithubLink).
+Find the source code on [GithubLink](https://github.com/Shree1291/Quicksell-Kanban-Board-Application).
 
 ## Tech Stack
 
