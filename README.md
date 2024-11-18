@@ -33,11 +33,11 @@ An interactive Kanban board application built using **React.js** and **SCSS**, d
 
 ## Live Demo
 
-Experience the application [here](DeployLink)
+Experience the application [LIVE](https://quicksell-kanban-board-application.vercel.app/)
 
 ## Repository
 
-Find the source code on [GithubLink](https://github.com/Shree1291/Quicksell-Kanban-Board-Application).
+Find the source code on [Github_Link](https://github.com/Shree1291/Quicksell-Kanban-Board-Application).
 
 ## Tech Stack
 
